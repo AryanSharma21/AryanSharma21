@@ -22,7 +22,8 @@ I am a Data Science Enthusiast.   ||  Welcome to my git profile.
 - Data Analytics and Data Science.
 
 
-## Other Common Github Profile Sections
+## Someting more .
+
 👩‍💻 I'm currently working on some ML projects.
 
 🧠 currently learning  DSA with Java
