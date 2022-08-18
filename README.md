@@ -2,6 +2,9 @@
 🔭 I’m currently working on Machine learning projects.<br><br>👯 I’m looking to collaborate on open source.<br><br>🌱 I’m currently learning DSA With Java<br><br>💬 Ask me about #Tech.<br><br>⚡ Fun fact || On average, people read 10% slower from a screen than from paper but as you reached here, consider following.
 
 
+![giphy](https://user-images.githubusercontent.com/78106056/185381072-c6809815-5a7a-4521-99be-95e4d1efa2b1.gif)
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-sharma-9b5933223) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Aryansh2022) 
 
